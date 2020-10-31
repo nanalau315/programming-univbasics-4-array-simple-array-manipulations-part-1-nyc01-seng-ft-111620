@@ -12,10 +12,10 @@ def using_pop (array)
   array.pop
 end
 
-def pop_with_args(array)
-  new_array = []
-  new_array << array.pop
-  second_doggy = array.pop
-  new_array.unshift(second_doggy)
-  new_array
-end
+# def pop_with_args(array)
+#   new_array = []
+#   new_array << array.pop
+#   second_doggy = array.pop
+#   new_array.unshift(second_doggy)
+#   new_array
+# end
