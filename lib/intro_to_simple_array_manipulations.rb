@@ -19,3 +19,7 @@ end
 #   new_array.unshift(second_doggy)
 #   new_array
 # end
+
+def pop_with_args(array)
+  array.pop(2)
+end
